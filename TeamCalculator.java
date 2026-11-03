@@ -1,4 +1,4 @@
-// Team: Emily
+// Team: EmilyP
 
 public class TeamCalculator {
 
