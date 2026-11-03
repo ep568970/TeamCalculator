@@ -10,7 +10,7 @@ public class TeamCalculator {
 
     // Student 1
     public static int add(int a, int b) {
-        return 0;
+        return a+b;
     }
 
     // Student 2
